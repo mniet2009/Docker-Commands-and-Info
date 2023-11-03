@@ -1,11 +1,11 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
+# Repo to learn Docker with examples. Contributions are most welcome
 
 ## If you found this repo useful, give it a STAR 🌠
 
 You can watch the video version of this repo on my youtube channel -> https://www.youtube.com/@AbhishekVeeramalla
 
 
-## What is a container ?
+## What is a container?
 
 A container is a standard unit of software that packages up code and all its dependencies, so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 
